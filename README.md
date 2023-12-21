@@ -25,7 +25,7 @@
 <p align="justify">
   Consiste em uma Lista Telefônica que armazena diversos contatos, contendo nome e número de telefone. 
   
-  O usuário pode adicionar, editar ou eliminar os contatos, desde que não haja conflito com números de telefone iguais. 
+  O usuário pode: adicionar, editar ou eliminar os contatos, desde que não haja conflito com números de telefone iguais. Ao salvar o contato, ele é automaticamente salvo no banco de dados, podendo se alterado posteriormente.
 </p>
 
 ## Funcionalidades
