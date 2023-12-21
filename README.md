@@ -40,6 +40,8 @@
 
 :heavy_check_mark: Procurar contatos na lista
 
+:heavy_check_mark: Exportar para CSV
+
 ## Layout da Aplicação :dash:
 
 <p align="center">Página Inicial </p>
